@@ -10,7 +10,6 @@ Este projeto demonstra um fluxo completo de análise de dados, incluindo:
 - geração de relatórios e insights.
 
 O objetivo principal é transformar dados brutos em informações úteis para tomada de decisão.
-!(Painel de comportamento do usuario_page-0001.jpg)
 
 ---
 
